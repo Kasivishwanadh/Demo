@@ -4,4 +4,7 @@ This is sample demo file.
 
 ## Heading 2
 
-I hope this is not a problem
+<<<<<<< HEAD:wq!
+=======
+This is bound to cause trouble
+>>>>>>> bad
